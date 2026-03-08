@@ -1,0 +1,8 @@
+Student_ID,Name,Branch,Maths,Science,English,Attendance
+101,Dharani,CSE,85,92,88,90
+102,Siri,IT,90,,75,85
+103,Arjun,CSE,,80,82,88
+104,Meena,ECE,78,85,,92
+105,Kiran,IT,88,89,90,95
+106,Anil,CSE,65,70,68,75
+107,Manoj,ECE,92,94,91,98
